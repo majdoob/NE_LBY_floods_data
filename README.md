@@ -1,4 +1,4 @@
-![map_fld_NE_LBY_2023](https://github.com/majdoob/NE_LBY_floods_data/assets/68148324/ae84f827-b117-4312-8c4c-23d674826466)# NE_LBY_floods_data
+# NE_LBY_floods_data
 # Urban Density and Wadi System Proximity for Floods Humanitarian Response (North-East Libya)
 
 ## About
