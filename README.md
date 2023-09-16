@@ -2,7 +2,7 @@
 Urban Density and Wadi System Proximity for Floods Humanitarian Response (North-East Libya)
 
 ## About
-This project’s purpose is to outline high priority areas humanitarian response.
+This project’s purpose is to outline high priority areas for humanitarian response.
 ## Possible use cases
 The data provides cluster of location and zones read to use to:
 - Define and plan priorities.
