@@ -30,17 +30,17 @@ Files:
 
 
 ## Resources
-ALOS Global Digital Surface Model:
+- ALOS Global Digital Surface Model:
 https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d30/aw3d30_e.htm
-Sentinel-2 10m Land Use/Land Cover:
+- Sentinel-2 10m Land Use/Land Cover:
 https://www.arcgis.com/home/item.html?id=fc92d38533d440078f17678ebc20e8e2
 
 ## Tools
-QGIS: https://www.qgis.org/en/site/
-GRASS GIS: https://grass.osgeo.org/
-GEE: https://earthengine.google.com/
+- QGIS: https://www.qgis.org/en/site/
+- GRASS GIS: https://grass.osgeo.org/
+- GEE: https://earthengine.google.com/
 
 ### For inquires:
-https://www.linkedin.com/in/almajdoub/
-https://www.facebook.com/openstreetmap.libya
+- https://www.linkedin.com/in/almajdoub/
+- https://www.facebook.com/openstreetmap.libya
 
